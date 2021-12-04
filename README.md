@@ -89,7 +89,7 @@ This dataset has been accumulated with help of "Data Collection" iOS app special
 **9. Tree Plot & Feature Importance in Random Forest
   
 ![image](https://user-images.githubusercontent.com/54996245/144722471-ed5c0470-0d10-4825-8e75-31b0d47bda7c.png)
-![image](https://user-images.githubusercontent.com/54996245/144722478-f6b936ff-8992-4e46-a8b0-3ee75a245b8a.png)
+![image](https://user-images.githubusercontent.com/54996245/144723779-107b686a-7f82-4843-8d75-2eccad99c096.png)
 
 
 **10. ML Algorithm's Scores for the Dataset**
