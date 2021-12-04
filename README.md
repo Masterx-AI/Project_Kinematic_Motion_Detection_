@@ -1,6 +1,6 @@
-# AI/ML Project - Breast Cancer Diagnosis
+# AI/ML Project - Kinematic Motion Detection
 
-<p align="center"><img src="https://user-images.githubusercontent.com/54996245/144494628-74d4abb9-9f26-4c12-b499-f6fa79a56864.jpg" style="width: 1000px;"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54996245/144723747-ed2e5b79-5cfe-4cd1-96d1-a2279a935732.jpg" style="width: 1000px;"/></p>
 
 ### Description:
 
@@ -94,16 +94,16 @@ This dataset has been accumulated with help of "Data Collection" iOS app special
 
 **10. ML Algorithm's Scores for the Dataset**
   
-![image](https://user-images.githubusercontent.com/54996245/144495382-21862d14-a6cb-4b90-a32f-2a0d29b78c1c.png)
-![image](https://user-images.githubusercontent.com/54996245/144495393-16c7bee4-7cc3-4b8b-a48f-9ee25a9635c2.png)
+![image](https://user-images.githubusercontent.com/54996245/144723645-234cc06e-c4e0-4ade-8f7a-a7d9ce683a79.png)
+![image](https://user-images.githubusercontent.com/54996245/144723642-75fd4474-6dcf-4517-a943-e792bba8deac.png)
 
   
 ### Here are some of the key outcomes of the project:
-- The Dataset was small totally around 569 samples & after preprocessing 8.3% of the datasamples were dropped. 
-- The samples were highly imbalanced, hence SMOTE Technique was applied on the data to  balance the classes, adding 21.3% more samples to the dataset.
+- The Dataset was small totally around 88 thousand samples & after preprocessing 20.4% of the datasamples were dropped. 
+- The samples were slightly imbalanced after processing, hence SMOTE Technique was applied on the data to  balance the classes, adding 18.1% more samples to the dataset.
 - Visualising the distribution of data & their relationships, helped us to get some insights on the relationship between the featureset.
 - Feature Selection/Eliminination was carried out and appropriate features were shortlisted.
 - Testing multiple algorithms with fine-tuning hyperparamters gave us some understanding on the model performance for various algorithms on this specific dataset.
-- The Support Vector algorithm perform the best on the current dataset, considering Recall as the key-metric, as is relatively ok to falsely classify any patient as False Positive, but can be quiet dangerous if classified as False Negative.
-- Yet it wise to also consider simpler model like Logistic Regression as it is more generalisable & is computationally less expensive.
+- Except Naive Baye's most of the algorithms performed wll on the current dataset, considering F1-score as the key-metric.
+- Yet it wise to also consider simpler model like Logistic Regression as it is more generalisable & is computationally less expensive, but comes at the cost of slight misclassifications.
 
