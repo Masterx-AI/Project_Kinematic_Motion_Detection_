@@ -1,4 +1,4 @@
-# AI/ML Project - Kinematic Motion Detection
+# AI/ML Project - Kinematic Motion Detection🚶‍♂️
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54996245/144723747-ed2e5b79-5cfe-4cd1-96d1-a2279a935732.jpg" style="width: 1000px;"/></p>
 
